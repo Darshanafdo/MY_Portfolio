@@ -204,8 +204,8 @@ section {
 }
 
 .img-1 img {
-  border-radius: 100%;
-  outline: 2px solid;
+  border-radius: 30%;
+  outline: 0.1px double;
 }
 
 .section__text {
@@ -439,39 +439,39 @@ article {
 }
 
 .html {
-  width: 75%;
-}
-
-.css {
   width: 65%;
 }
 
-.js {
-  width: 55%;
-}
-
-.react {
+.css {
   width: 35%;
 }
 
+.js {
+  width: 25%;
+}
+
+.react {
+  width: 25%;
+}
+
 .php {
-  width: 45%;
+  width: 35%;
 }
 
 .mysql {
-  width: 55%;
+  width: 65%;
 }
 
 .java {
-  width: 55%;
+  width: 30%;
 }
 
 .c {
-  width: 40%;
+  width: 30%;
 }
 
 .vb {
-  width: 75%;
+  width: 55%;
 }
 
 .git {
@@ -501,11 +501,11 @@ article {
 }
 
 .css-p {
-  transform: translate(35px, -1px);
+  transform: translate(30px, -1px);
 }
 
 .js-p {
-  transform: translate(30px, -1px);
+  transform: translate(15px, -1px);
 }
 
 .react-p {
@@ -521,7 +521,7 @@ article {
 }
 
 .java-p {
-  transform: translate(35px, -1px);
+  transform: translate(15px, -1px);
 }
 
 .c-p {

@@ -6,7 +6,7 @@ function toggleMenu() {
 }
 
 var typed = new Typed("#occupation", {
-  strings: ["Front-End Developer", "Hardware Technician", "Network Technician"],
+  strings: ["Front-End Developer","UI UX Designer","Back-End Developer", "Hardware Technician", "Network Technician","Database Designer"],
   typeSpeed: 70,
   backSpeed: 50,
   backDelay: 1000,
